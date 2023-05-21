@@ -15,8 +15,8 @@ Hello! I'm a Discord bot and Minecraft plugin Developer! If you need a free Deve
 <details open>
 <summary style="font-size: x-large; font-style: italic;"> My GitHub Stats </summary>
 
-![Hiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=max0782YT&custom_title=max0782YT%27s%20GitHub%20Stats&theme=dark&show_icons=true&hide=stars&count_private=true)
+![Hiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiro&custom_title=Hiro%27s%20GitHub%20Stats&theme=dark&show_icons=true&hide=stars&count_private=true)
 
-![Hiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=max0782YT&custom_title=max0782YT%27s%20Top%20Languages&theme=dark&langs_count=100&layout=compact)
+![Hiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hiro&custom_title=Hiro%27s%20Top%20Languages&theme=dark&langs_count=100&layout=compact)
 
 </details>
